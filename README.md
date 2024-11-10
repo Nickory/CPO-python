@@ -8,7 +8,7 @@ This project provides a **Python implementation and replication** of the **Crest
 
 - **CPO Algorithm Replication**: A complete Python replication of the original CPO algorithm, with configurable parameters for various optimization tasks.
 - **Benchmark Testing on CEC Functions**: Validated on CEC benchmark functions (CEC2017, CEC2020, etc.), comparing the algorithm’s performance and robustness.
-- **A*-Enhanced Path Planning with CPO**: Applies CPO to enhance traditional A* path planning, balancing exploration and exploitation for optimized paths in complex environments.
+- **A-Enhanced Path Planning with CPO**: Applies CPO to enhance traditional A* path planning, balancing exploration and exploitation for optimized paths in complex environments.
 - **Randomized Obstacle Map Generation**: Generates random obstacle maps to test path planning performance in varied scenarios.
 - **Multi-Objective Optimization**: Extends CPO for multi-objective optimization, supporting applications that require Pareto-optimal front analysis.
 
@@ -57,6 +57,9 @@ This repository includes sample results comparing the CPO algorithm with other p
 This repository is a replication and extension of the CPO algorithm based on the original paper:
 
 - **Original Paper**: "Crested Porcupine Optimizer: A New Nature-Inspired Metaheuristic" by Mohamed Abdel-Basset et al., published in *Knowledge-Based Systems*.
+
+We would also like to express our sincere thanks to ** Chengzhi Qu** from **Nanjing university of information and science technoledge**, for his valuable guidance and for providing the topic for this project.
+
 
 ### Additional Documentation
 
