@@ -36,7 +36,7 @@ This project provides a **Python implementation and replication** of the **Crest
    ```bash
    pip install numpy matplotlib
 
-   2. **Run a Benchmark Test**:
+2. **Run a Benchmark Test**:
 
    ```bash
    python CPO_cec.py
