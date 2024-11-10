@@ -58,7 +58,7 @@ This repository is a replication and extension of the CPO algorithm based on the
 
 - **Original Paper**: "Crested Porcupine Optimizer: A New Nature-Inspired Metaheuristic" by Mohamed Abdel-Basset et al., published in *Knowledge-Based Systems*.
 
-We would also like to express our sincere thanks to ** Chengzhi Qu** from **Nanjing university of information and science technoledge**, for his valuable guidance and for providing the topic for this project.
+We would also like to express our sincere thanks to **Dr.Chengzhi Qu** from **Nanjing university of information and science technoledge**, for his valuable guidance and for providing the topic for this project.
 
 
 ### Additional Documentation
