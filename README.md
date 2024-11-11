@@ -14,12 +14,18 @@ This project provides a **Python implementation and replication** of the **Crest
 
 ### Repository Structure
 
-- **`CPO_cec.py`**: Core implementation of the Crested Porcupine Optimizer with benchmark functions, replicating the original paper’s approach.
-- **`CPO_algorithm_vX.py`**: Variants of the CPO algorithm, exploring optimizations and visualization enhancements.
-- **`CPO_path_planning.py`**: CPO-based path planning for grid maps, integrating A* for a hybrid approach.
-- **`CPO_multiobjective.py`**: Multi-objective optimization using CPO, enabling Pareto front analysis.
-- **`optimization.py`**: Utility functions for general optimization tasks and benchmarking.
-- **Reports and Data**: Experimental results, performance comparisons, and data files supporting reproducibility.
+- **A-CPO_path_2d.py**: Implements 2D path planning by combining the Crested Porcupine Optimizer (CPO) with the A* algorithm for hybrid route planning.
+- **A-CPO_path_3d.py**: Extends the 2D path planning approach to 3D environments using the A*-CPO hybrid method.
+- **A-CPO_path_3d_v2.py**: An improved version of the 3D path planning script with optimizations for enhanced performance.
+- **CPO_cec2017.py**: Contains benchmark functions from the CEC 2017 suite, supporting the testing of CPO algorithm performance.
+- **CPO_cec2022.py**: Similar to `CPO_cec2017.py`, but using benchmark functions from the CEC 2022 suite.
+- **CPO_convergenceCurve.py**: Visualizes convergence curves to assess the performance and stability of various CPO algorithm versions.
+- **CPO_multi_v3.py**: Implements multi-objective optimization using CPO, with support for Pareto front visualization.
+- **CPO_multi_v4.py**: Extends the multi-objective optimization capabilities of CPO, adding support for three objectives.
+- **CPO_population.py**: Manages population dynamics within the CPO framework, supporting algorithm functionality.
+- **expriment_report.pdf**: A report documenting experimental results, performance comparisons, and analyses.
+- **README.md**: Documentation and overview of the repository.
+
 
 ### Key Concepts
 
