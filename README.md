@@ -73,55 +73,37 @@ We would also like to express our sincere thanks to **Dr.Chengzhi Qu** from **Na
 
 ### CEC2017 Benchmark Function Visualization
 
-The following figures showcase the performance of the Crested Porcupine Optimizer (CPO) on various CEC2017 benchmark functions (F1-F6). These visualizations include 3D surface plots of the functions as well as convergence and performance comparisons with other optimizers.
+The following figures showcase the performance of the Crested Porcupine Optimizer (CPO) on various CEC2017 benchmark functions (F1-F6). Each function includes a surface plot, convergence curve, and performance comparison with other optimizers.
 
 #### F1: Sphere Function
-- **Function Surface and Contour Plot**  
-  ![F1 Surface and Contour](images/F_1.3.png)
-- **Convergence Curve**  
-  ![F1 Convergence](images/F_1.png)
-- **Performance Comparison**  
-  ![F1 Performance](images/F_1.2.png)
+| Function Surface and Contour | Convergence Curve | Performance Comparison |
+|:-----------------------------:|:-----------------:|:----------------------:|
+| ![F1 Surface and Contour](images/F_1.3.png) | ![F1 Convergence](images/F_1.png) | ![F1 Performance](images/F_1.2.png) |
 
 #### F2: Rosenbrock Function
-- **Function Surface and Contour Plot**  
-  ![F2 Surface and Contour](images/F_2.3.png)
-- **Convergence Curve**  
-  ![F2 Convergence](images/F_2.png)
-- **Performance Comparison**  
-  ![F2 Performance](images/F_2.2.png)
+| Function Surface and Contour | Convergence Curve | Performance Comparison |
+|:-----------------------------:|:-----------------:|:----------------------:|
+| ![F2 Surface and Contour](images/F_2.3.png) | ![F2 Convergence](images/F_2.png) | ![F2 Performance](images/F_2.2.png) |
 
 #### F3: Ackley Function
-- **Function Surface and Contour Plot**  
-  ![F3 Surface and Contour](images/F_3.3.png)
-- **Convergence Curve**  
-  ![F3 Convergence](images/F_3.png)
-- **Performance Comparison**  
-  ![F3 Performance](images/F_3.2.png)
+| Function Surface and Contour | Convergence Curve | Performance Comparison |
+|:-----------------------------:|:-----------------:|:----------------------:|
+| ![F3 Surface and Contour](images/F_3.3.png) | ![F3 Convergence](images/F_3.png) | ![F3 Performance](images/F_3.2.png) |
 
 #### F4: Rastrigin Function
-- **Function Surface and Contour Plot**  
-  ![F4 Surface and Contour](images/F_4.3.png)
-- **Convergence Curve**  
-  ![F4 Convergence](images/F_4.png)
-- **Performance Comparison**  
-  ![F4 Performance](images/F_4.2.png)
+| Function Surface and Contour | Convergence Curve | Performance Comparison |
+|:-----------------------------:|:-----------------:|:----------------------:|
+| ![F4 Surface and Contour](images/F_4.3.png) | ![F4 Convergence](images/F_4.png) | ![F4 Performance](images/F_4.2.png) |
 
 #### F5: Griewank Function
-- **Function Surface and Contour Plot**  
-  ![F5 Surface and Contour](images/F_5.3.png)
-- **Convergence Curve**  
-  ![F5 Convergence](images/F_5.png)
-- **Performance Comparison**  
-  ![F5 Performance](images/F_5.2.png)
+| Function Surface and Contour | Convergence Curve | Performance Comparison |
+|:-----------------------------:|:-----------------:|:----------------------:|
+| ![F5 Surface and Contour](images/F_5.3.png) | ![F5 Convergence](images/F_5.png) | ![F5 Performance](images/F_5.2.png) |
 
 #### F6: Schwefel Function
-- **Function Surface and Contour Plot**  
-  ![F6 Surface and Contour](images/F_6.3.png)
-- **Convergence Curve**  
-  ![F6 Convergence](images/F_6.png)
-- **Performance Comparison**  
-  ![F6 Performance](images/F_6.2.png)
+| Function Surface and Contour | Convergence Curve | Performance Comparison |
+|:-----------------------------:|:-----------------:|:----------------------:|
+| ![F6 Surface and Contour](images/F_6.3.png) | ![F6 Convergence](images/F_6.png) | ![F6 Performance](images/F_6.2.png) |
 
 ### Additional Analysis
 
