@@ -14,9 +14,9 @@ This project provides a **Python implementation and replication** of the **Crest
 
 ### Repository Structure
 
-- **A-CPO_path_2d.py**: Implements 2D path planning by combining the Crested Porcupine Optimizer (CPO) with the A* algorithm for hybrid route planning.
-- **A-CPO_path_3d.py**: Extends the 2D path planning approach to 3D environments using the A*-CPO hybrid method.
-- **A-CPO_path_3d_v2.py**: An improved version of the 3D path planning script with optimizations for enhanced performance.
+- **A*-CPO_path_2d.py**: Implements 2D path planning by combining the Crested Porcupine Optimizer (CPO) with the A* algorithm for hybrid route planning.
+- **A*-CPO_path_3d.py**: Extends the 2D path planning approach to 3D environments using the A*-CPO hybrid method.
+- **A*-CPO_path_3d_v2.py**: An improved version of the 3D path planning script with optimizations for enhanced performance.
 - **CPO_cec2017.py**: Contains benchmark functions from the CEC 2017 suite, supporting the testing of CPO algorithm performance.
 - **CPO_cec2022.py**: Similar to `CPO_cec2017.py`, but using benchmark functions from the CEC 2022 suite.
 - **CPO_convergenceCurve.py**: Visualizes convergence curves to assess the performance and stability of various CPO algorithm versions.
@@ -25,7 +25,6 @@ This project provides a **Python implementation and replication** of the **Crest
 - **CPO_population.py**: Manages population dynamics within the CPO framework, supporting algorithm functionality.
 - **expriment_report.pdf**: A report documenting experimental results, performance comparisons, and analyses.
 - **README.md**: Documentation and overview of the repository.
-
 
 ### Key Concepts
 
