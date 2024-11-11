@@ -71,5 +71,59 @@ We would also like to express our sincere thanks to **Dr.Chengzhi Qu** from **Na
 
 - **NUIST Experiment Report**: Contains detailed documentation of our experimental setup, results, and analysis of CPO on various benchmark functions and path planning tasks.
 
+### CEC2017 Benchmark Function Visualization
 
+The following figures showcase the performance of the Crested Porcupine Optimizer (CPO) on various CEC2017 benchmark functions (F1-F6). These visualizations include 3D surface plots of the functions as well as convergence and performance comparisons with other optimizers.
+
+#### F1: Sphere Function
+- **Function Surface and Contour Plot**  
+  ![F1 Surface and Contour](images/F_1.3.png)
+- **Convergence Curve**  
+  ![F1 Convergence](images/F_1.png)
+- **Performance Comparison**  
+  ![F1 Performance](images/F_1.2.png)
+
+#### F2: Rosenbrock Function
+- **Function Surface and Contour Plot**  
+  ![F2 Surface and Contour](images/F_2.3.png)
+- **Convergence Curve**  
+  ![F2 Convergence](images/F_2.png)
+- **Performance Comparison**  
+  ![F2 Performance](images/F_2.2.png)
+
+#### F3: Ackley Function
+- **Function Surface and Contour Plot**  
+  ![F3 Surface and Contour](images/F_3.3.png)
+- **Convergence Curve**  
+  ![F3 Convergence](images/F_3.png)
+- **Performance Comparison**  
+  ![F3 Performance](images/F_3.2.png)
+
+#### F4: Rastrigin Function
+- **Function Surface and Contour Plot**  
+  ![F4 Surface and Contour](images/F_4.3.png)
+- **Convergence Curve**  
+  ![F4 Convergence](images/F_4.png)
+- **Performance Comparison**  
+  ![F4 Performance](images/F_4.2.png)
+
+#### F5: Griewank Function
+- **Function Surface and Contour Plot**  
+  ![F5 Surface and Contour](images/F_5.3.png)
+- **Convergence Curve**  
+  ![F5 Convergence](images/F_5.png)
+- **Performance Comparison**  
+  ![F5 Performance](images/F_5.2.png)
+
+#### F6: Schwefel Function
+- **Function Surface and Contour Plot**  
+  ![F6 Surface and Contour](images/F_6.3.png)
+- **Convergence Curve**  
+  ![F6 Convergence](images/F_6.png)
+- **Performance Comparison**  
+  ![F6 Performance](images/F_6.2.png)
+
+### Additional Analysis
+
+These visualizations demonstrate the Crested Porcupine Optimizer’s ability to handle various optimization landscapes, showing convergence speed and accuracy across different types of functions. Each function presents unique challenges, and CPO's performance on these benchmarks highlights its robustness and adaptability.
 
