@@ -31,10 +31,12 @@ This project provides a **Python implementation and replication** of the **Crest
 #### 4. **Population Dynamics and Core Algorithm**
 - **`CPO_population.py`**: Manages population dynamics within the CPO framework, supporting algorithm functionality.
 - **`CPO_algorithm_v4_class.py`**: Implements the object-oriented version of the Crested Porcupine Optimizer (CPO) algorithm using classes, encapsulating the core functionalities, including fitness functions, particles, and the optimizer itself.
+- **`CPO_algorithm_v4_OOP.py`**: Implements the refactored Crested Porcupine Optimizer (CPO) algorithm using object-oriented programming principles. This file demonstrates the application of encapsulation, inheritance, polymorphism, and other OOP features to improve the maintainability and scalability of the algorithm.
 
 ### 5. **Other Files**
 - **`expriment_report.pdf`**: A report documenting experimental results, performance comparisons, and analyses of the original CPO algorithm.
 - **`CPO_OOP_report.pdf`**: A report discussing the object-oriented version of the CPO algorithm, explaining the application of classes, private members, protected members, inheritance, and polymorphism, and how these features improve maintainability and scalability of the algorithm.
+- **`CPO_OOP_report2.pdf`**: A detailed report accompanying the `CPO_algorithm_v4_OOP.py` implementation. The report explains the object-oriented design, its benefits, and performance evaluations compared to the procedural version.
 - **`README.md`**: Documentation and overview of the repository, providing an introduction to the CPO algorithm, its various implementations, and instructions on usage.
 
 
