@@ -143,7 +143,7 @@ This repository implements and extends the **Crested Porcupine Optimizer (CPO)**
 
 ### About This Repository
 
-This repository provides a Python implementation of the CPO algorithm, which was originally proposed in the above paper. While the original paper does not provide code, this repository reproduces the algorithm in Python and extends it using **object-oriented programming (OOP)** principles to improve maintainability, modularity, and scalability. Additional features and applications, such as path planning and benchmarking, are also included.
+This repository provides a Python implementation of the CPO algorithm, which was originally proposed in the above paper. While the original paper does not provide python code, this repository reproduces the algorithm in Python and extends it using **object-oriented programming (OOP)** principles to improve maintainability, modularity, and scalability. Additional features and applications, such as path planning and benchmarking, are also included.
 
 If you use this repository or any part of the implementation in your research or projects, please cite both the original paper and this GitHub repository as follows:
 
