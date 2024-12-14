@@ -132,4 +132,42 @@ This repository contains a reproduction of the Crested Porcupine Optimizer (CPO)
 
 For more details, see the [LICENSE](LICENSE) file.
 
+## Reference
+
+This repository implements and extends the **Crested Porcupine Optimizer (CPO)**, a novel nature-inspired metaheuristic algorithm introduced in the following paper:
+
+> **Crested Porcupine Optimizer: A New Nature-Inspired Metaheuristic**  
+> Mohamed Abdel-Basset, Reda Mohamed, and Mohamed Abouhawwash  
+> *Knowledge-Based Systems, Volume 284, 2024, 111257.*  
+> [DOI: https://doi.org/10.1016/j.knosys.2023.111257](https://doi.org/10.1016/j.knosys.2023.111257)
+
+### About This Repository
+
+This repository provides a Python implementation of the CPO algorithm, which was originally proposed in the above paper. While the original paper does not provide code, this repository reproduces the algorithm in Python and extends it using **object-oriented programming (OOP)** principles to improve maintainability, modularity, and scalability. Additional features and applications, such as path planning and benchmarking, are also included.
+
+If you use this repository or any part of the implementation in your research or projects, please cite both the original paper and this GitHub repository as follows:
+
+### Citation
+
+#### Original Paper
+```bibtex
+@article{abdel2024crested,
+  title={Crested Porcupine Optimizer: A new nature-inspired metaheuristic},
+  author={Abdel-Basset, Mohamed and Mohamed, Reda and Abouhawwash, Mohamed},
+  journal={Knowledge-Based Systems},
+  volume={284},
+  pages={111257},
+  year={2024},
+  publisher={Elsevier}
+}
+```
+```bibtex
+@misc{wang2024cpo,
+  author       = {Ziheng Wang,Di Wu},
+  title        = {Python Implementation of the Crested Porcupine Optimizer (CPO)},
+  year         = {2024},
+  url          = {https://github.com/Nickory/CPO-python},
+  note         = {A Python implementation of the CPO algorithm based on the paper by Mohamed Abdel-Basset et al.}
+}
+```
 
