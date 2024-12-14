@@ -123,3 +123,6 @@ The following figures showcase the performance of the Crested Porcupine Optimize
 
 These visualizations demonstrate the Crested Porcupine Optimizer’s ability to handle various optimization landscapes, showing convergence speed and accuracy across different types of functions. Each function presents unique challenges, and CPO's performance on these benchmarks highlights its robustness and adaptability.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
