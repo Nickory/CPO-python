@@ -152,13 +152,13 @@ If you use this repository or any part of the implementation in your research or
 #### Original Paper
 ```bibtex
 @article{abdel2024crested,
-  title={Crested Porcupine Optimizer: A new nature-inspired metaheuristic},
-  author={Abdel-Basset, Mohamed and Mohamed, Reda and Abouhawwash, Mohamed},
-  journal={Knowledge-Based Systems},
-  volume={284},
-  pages={111257},
-  year={2024},
-  publisher={Elsevier}
+  title        ={Crested Porcupine Optimizer: A new nature-inspired metaheuristic},
+  author       ={Abdel-Basset, Mohamed and Mohamed, Reda and Abouhawwash, Mohamed},
+  journal      ={Knowledge-Based Systems},
+  volume       ={284},
+  pages        ={111257},
+  year         ={2024},
+  publisher    ={Elsevier}
 }
 ```
 ```bibtex
