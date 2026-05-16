@@ -161,13 +161,5 @@ If you use this repository or any part of the implementation in your research or
   publisher    ={Elsevier}
 }
 ```
-```bibtex
-@misc{wang2024cpo,
-  author       = {Ziheng Wang,Di Wu},
-  title        = {Python Implementation of the Crested Porcupine Optimizer (CPO)},
-  year         = {2024},
-  url          = {https://github.com/Nickory/CPO-python},
-  note         = {A Python implementation of the CPO algorithm based on the paper by Mohamed Abdel-Basset et al.}
-}
-```
+
 
